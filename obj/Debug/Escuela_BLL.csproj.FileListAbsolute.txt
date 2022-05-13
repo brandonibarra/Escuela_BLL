@@ -1,0 +1,12 @@
+C:\Users\erick\Desktop\Escuela_BLL\obj\Debug\Escuela_BLL.csprojAssemblyReference.cache
+C:\Users\erick\Desktop\Escuela_BLL\obj\Debug\Escuela_BLL.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Escuela_BLL\obj\Debug\Escuela_BLL.csproj.CopyComplete
+C:\Users\erick\Desktop\Escuela_BLL\bin\Debug\Escuela_BLL.dll
+C:\Users\erick\Desktop\Escuela_BLL\bin\Debug\Escuela_BLL.pdb
+C:\Users\erick\Desktop\Escuela_BLL\bin\Debug\Escuela_DAL.dll
+C:\Users\erick\Desktop\Escuela_BLL\bin\Debug\Escuela_DAL.pdb
+C:\Users\erick\Desktop\Escuela_BLL\obj\Debug\Escuela_BLL.dll
+C:\Users\erick\Desktop\Escuela_BLL\obj\Debug\Escuela_BLL.pdb
+C:\Users\erick\Desktop\Escuela_BLL\bin\Debug\EntityFramework.dll
+C:\Users\erick\Desktop\Escuela_BLL\bin\Debug\Escuela_DAL.dll.config
+C:\Users\erick\Desktop\Escuela_BLL\bin\Debug\EntityFramework.xml
